@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7400a0935289a845879a71d74007812, type: 3}
+  m_Name: BreakOre
+  m_EditorClassIdentifier: 
+  ItemName: "\uB3CC\uB9F9\uC774 \uC0AC\uB791\uAFBC"
+  ItemGuide: "\uC8FC\uC704\uC5D0 \uAD11\uC11D, \uAD11\uBB3C\uC774 \uC788\uB2E4\uBA74
+    \uD30C\uAD34\uD55C\uB2E4. \uD30C\uAD34\uB41C \uAD11\uC11D\uB2F9 10\uCF54\uC778\uC744
+    \uC900\uB2E4"
+  ItemImage: {fileID: 1979398198, guid: cd0b8890fd943ec42b39ec4e5fa041c1, type: 3}
+  MySymbol: {fileID: 9173434398852204250, guid: e51f760fa44b2aa43ab800307672250a, type: 3}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7400a0935289a845879a71d74007812, type: 3}
+  m_Name: EmblemHeart
+  m_EditorClassIdentifier: 
+  ItemName: "\uD558\uD2B8"
+  ItemGuide: "\uC8FC\uC704\uC5D0 \uB2E4\uC774\uC544\uBAAC\uB4DC, \uD558\uD2B8\uAC00
+    \uC788\uB2E4\uBA74 1\uCF54\uC778 \uCD94\uAC00\uC9C0\uAE09\uD574\uC900\uB2E4."
+  ItemImage: {fileID: 4606908045521496030, guid: 3156314d65e73e14c928c1b1c285126f, type: 3}
+  MySymbol: {fileID: 9173434398852204250, guid: eb59ba828d2cdde41b811a441bf4437f, type: 3}

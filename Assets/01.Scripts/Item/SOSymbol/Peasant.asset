@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7400a0935289a845879a71d74007812, type: 3}
+  m_Name: Peasant
+  m_EditorClassIdentifier: 
+  ItemName: "\uB18D\uBD80"
+  ItemGuide: "\uB18D\uAC00\uC5D0 \uC788\uC744\uB9CC\uD55C \uC2EC\uBCFC\uB4E4\uC758
+    \uCF54\uC778\uC744 2\uBC30 \uBD88\uB824\uC900\uB2E4"
+  ItemImage: {fileID: 7742358082320047022, guid: f1f4ec1ed85cb034f9866ac37ff335d3, type: 3}
+  MySymbol: {fileID: 9173434398852204250, guid: 40fe6294d6cc9ec489be185403a2f20a, type: 3}

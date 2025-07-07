@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7400a0935289a845879a71d74007812, type: 3}
+  m_Name: VoidFruit
+  m_EditorClassIdentifier: 
+  ItemName: "\uBE48 \uACFC\uC77C"
+  ItemGuide: "\uBE48 \uACF5\uAC04\uC758 \uAC1C\uC218\uB9CC\uD07C \uCF54\uC778\uC744
+    \uC900\uB2E4. \uB9CC\uC57D \uBE48 \uACF5\uAC04\uC774 2\uAC1C \uC774\uD558\uC77C\uB54C
+    \uC790\uC2E0\uC744 \uD30C\uAD34\uD558\uACE0 8\uCF54\uC778\uC744 \uC9C0\uAE09\uD55C\uB2E4."
+  ItemImage: {fileID: -4663093241142512526, guid: 69d574332711f3041b475e1152c14fd3, type: 3}
+  MySymbol: {fileID: 9173434398852204250, guid: 3fd41bbf8e18fad4ca1dc0f417e7ce6a, type: 3}

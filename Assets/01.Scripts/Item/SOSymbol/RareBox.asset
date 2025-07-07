@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7400a0935289a845879a71d74007812, type: 3}
+  m_Name: RareBox
+  m_EditorClassIdentifier: 
+  ItemName: "\uD76C\uADC0\uC0C1\uC790"
+  ItemGuide: "\uD30C\uAD34\uB418\uBA74 \uACE8\uB4DC 50\uAC1C\uB97C \uC9C0\uAE09\uD55C\uB2E4."
+  ItemImage: {fileID: -340891171, guid: cc44ca7281e3f1a4c8243fd2f1f1ecff, type: 3}
+  MySymbol: {fileID: 9173434398852204250, guid: 6e1b90f8a51e1a34a9004e143c439c2c, type: 3}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7400a0935289a845879a71d74007812, type: 3}
+  m_Name: EmblemSpade
+  m_EditorClassIdentifier: 
+  ItemName: "\uC2A4\uD398\uC774\uB4DC"
+  ItemGuide: "\uC8FC\uC704\uC5D0 \uD074\uB85C\uBC84, \uC2A4\uD398\uC774\uB4DC\uAC00
+    \uC788\uB2E4\uBA74 1\uCF54\uC778 \uCD94\uAC00\uC9C0\uAE09\uD574\uC900\uB2E4."
+  ItemImage: {fileID: 6999062879630366838, guid: 4640f0798c1ee4b47af695162c4244dd, type: 3}
+  MySymbol: {fileID: 9173434398852204250, guid: f4f5b2b1f17ad4244a313e25852c39b3, type: 3}

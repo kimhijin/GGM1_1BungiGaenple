@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7400a0935289a845879a71d74007812, type: 3}
+  m_Name: EmblemClover
+  m_EditorClassIdentifier: 
+  ItemName: "\uD074\uB85C\uBC84"
+  ItemGuide: "\uC8FC\uC704\uC5D0 \uD074\uB85C\uBC84, \uC2A4\uD398\uC774\uB4DC\uAC00
+    \uC788\uB2E4\uBA74 1\uCF54\uC778 \uCD94\uAC00\uC9C0\uAE09\uD574\uC900\uB2E4."
+  ItemImage: {fileID: -3890951754223521745, guid: fb49ca49495b17c438cf974f9780d87f, type: 3}
+  MySymbol: {fileID: 9173434398852204250, guid: 127b6a807cd953342bad08f2aae7228a, type: 3}
